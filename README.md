@@ -1,5 +1,5 @@
 # flowmatch_scheduler-comfyui
-Special scheduler meant to be used on [Self forcing models](https://self-forcing.github.io/)
+This is a special scheduler meant to be used on [Self forcing models](https://self-forcing.github.io/)
 
 You can see more details here: https://rentry.org/wan21kjguide#lightx2v-nag-huge-speed-increase
 
